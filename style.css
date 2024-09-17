@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(imgs/stormseeker-rX12B5uX7QM-unsplash.jpg);
+    
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+
+button {
+    margin-top: 15px;
+}
+
+#message {
+    margin-top: 10px;
+    color: green;
+}
